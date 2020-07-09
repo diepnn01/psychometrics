@@ -1,11 +1,11 @@
 {
   "name": "psychometrics-example",
-  "homepage": "./demo",
+  "homepage": "https://diepnn01.github.io/psychometrics",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
-    "build": "rm -rf ../demo && node ../node_modules/react-scripts/bin/react-scripts.js build && mv -f build ../demo",
+    "build": "rm -rf ../docs && node ../node_modules/react-scripts/bin/react-scripts.js build && mv -f build ../docs",
     "test": "node ../node_modules/react-scripts/bin/react-scripts.js test"
   },
   "dependencies": {

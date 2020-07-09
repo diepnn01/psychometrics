@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psychometrics/static/css/main.36e74ebd.chunk.css",
+    "main.js": "/psychometrics/static/js/main.beb4c067.chunk.js",
+    "main.js.map": "/psychometrics/static/js/main.beb4c067.chunk.js.map",
+    "runtime-main.js": "/psychometrics/static/js/runtime-main.4b9ee0e3.js",
+    "runtime-main.js.map": "/psychometrics/static/js/runtime-main.4b9ee0e3.js.map",
+    "static/js/2.fd1bfcb8.chunk.js": "/psychometrics/static/js/2.fd1bfcb8.chunk.js",
+    "static/js/2.fd1bfcb8.chunk.js.map": "/psychometrics/static/js/2.fd1bfcb8.chunk.js.map",
+    "index.html": "/psychometrics/index.html",
+    "precache-manifest.9aa254d48deb6009fde20c7abc3951b4.js": "/psychometrics/precache-manifest.9aa254d48deb6009fde20c7abc3951b4.js",
+    "service-worker.js": "/psychometrics/service-worker.js",
+    "static/css/main.36e74ebd.chunk.css.map": "/psychometrics/static/css/main.36e74ebd.chunk.css.map",
+    "static/js/2.fd1bfcb8.chunk.js.LICENSE.txt": "/psychometrics/static/js/2.fd1bfcb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b9ee0e3.js",
+    "static/js/2.fd1bfcb8.chunk.js",
+    "static/css/main.36e74ebd.chunk.css",
+    "static/js/main.beb4c067.chunk.js"
+  ]
+}
