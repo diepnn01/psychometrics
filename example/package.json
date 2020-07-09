@@ -1,11 +1,11 @@
 {
   "name": "psychometrics-example",
-  "homepage": ".",
+  "homepage": "./demo",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
-    "build": "node ../node_modules/react-scripts/bin/react-scripts.js build",
+    "build": "rm -rf ../demo && node ../node_modules/react-scripts/bin/react-scripts.js build && mv -f build ../demo",
     "test": "node ../node_modules/react-scripts/bin/react-scripts.js test"
   },
   "dependencies": {
