@@ -1,6 +1,6 @@
 {
   "name": "psychometrics-example",
-  "homepage": "https://diepnn01.github.io/psychometrics/docs",
+  "homepage": "./docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
