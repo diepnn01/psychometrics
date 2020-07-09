@@ -110,4 +110,4 @@ The response should be an array of objects. The javascript object will have the 
 
 ## License
 
-MIT © [diep-nguyen](https://github.com/diep-nguyen)
+MIT © [diep-nguyen](https://github.com/diepnn01)
