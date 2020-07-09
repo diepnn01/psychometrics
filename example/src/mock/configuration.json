@@ -1,0 +1,62 @@
+{
+  "instructions": {
+    "pre": "Remember the highlighted tiles",
+    "post": "Tap the highlighted tiles"
+  },
+  "scenarios": [
+    {
+      "grid": "2*2",
+      "highlightedTiles": 1,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 1000
+    },
+    {
+      "grid": "3*3",
+      "highlightedTiles": 3,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 2000
+    },
+    {
+      "grid": "4*4",
+      "highlightedTiles": 5,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 2000
+    },
+    {
+      "grid": "5*5",
+      "highlightedTiles": 8,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 3000
+    },
+    {
+      "grid": "6*6",
+      "highlightedTiles": 10,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 50000
+    },
+    {
+      "grid": "7*7",
+      "highlightedTiles": 13,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 60000
+    },
+    {
+      "grid": "8*8",
+      "highlightedTiles": 20,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 70000
+    },
+    {
+      "grid": "9*9",
+      "highlightedTiles": 33,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 80000
+    },
+    {
+      "grid": "10*10",
+      "highlightedTiles": 66,
+      "preDisplayTime": 1000,
+      "postDisplayTime": 10000
+    }
+  ]
+}

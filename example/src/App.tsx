@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'psychometrics'
+import { Psychometrics } from 'psychometrics'
 import 'psychometrics/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Psychometrics configuration={require('./mock/configuration.json')} />
 }
 
 export default App

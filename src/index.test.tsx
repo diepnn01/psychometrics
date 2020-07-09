@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { Psychometrics } from '.';
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
-  })
-})
+    expect(Psychometrics).toBeTruthy();
+  });
+});
