@@ -312,6 +312,7 @@ var Psychometrics = function Psychometrics(_ref) {
           }
 
           if (scenario.highlightedTiles === countCorrect) {
+            console.log('You Win!');
             handleNextScreen();
           }
         }
@@ -365,6 +366,7 @@ var Psychometrics = function Psychometrics(_ref) {
         });
 
         if (timeFloor === maxTime) {
+          res.userResponse = [];
           handleNextScreen();
         }
       }

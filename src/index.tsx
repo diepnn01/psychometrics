@@ -91,6 +91,7 @@ export const Psychometrics = ({
             }
           }
           if (scenario.highlightedTiles === countCorrect) {
+            console.log('You Win!');
             handleNextScreen();
           }
         }
@@ -127,6 +128,7 @@ export const Psychometrics = ({
         const dips = maxTime - timeFloor;
         setDisplayTime(() => dips);
         if (timeFloor === maxTime) {
+          res.userResponse = [];
           handleNextScreen();
         }
       }

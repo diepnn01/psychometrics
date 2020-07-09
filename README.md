@@ -4,6 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/psychometrics.svg)](https://www.npmjs.com/package/psychometrics) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+
+> [🥳DEMO Psychometrics🥳](https://diepnn01.github.io/psychometrics)
+
 ## Install
 
 ```bash
