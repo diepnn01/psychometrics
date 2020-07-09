@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/psychometrics/static/css/main.36e74ebd.chunk.css",
-    "main.js": "/psychometrics/static/js/main.beb4c067.chunk.js",
-    "main.js.map": "/psychometrics/static/js/main.beb4c067.chunk.js.map",
-    "runtime-main.js": "/psychometrics/static/js/runtime-main.4b9ee0e3.js",
-    "runtime-main.js.map": "/psychometrics/static/js/runtime-main.4b9ee0e3.js.map",
-    "static/js/2.fd1bfcb8.chunk.js": "/psychometrics/static/js/2.fd1bfcb8.chunk.js",
-    "static/js/2.fd1bfcb8.chunk.js.map": "/psychometrics/static/js/2.fd1bfcb8.chunk.js.map",
-    "index.html": "/psychometrics/index.html",
-    "precache-manifest.9aa254d48deb6009fde20c7abc3951b4.js": "/psychometrics/precache-manifest.9aa254d48deb6009fde20c7abc3951b4.js",
-    "service-worker.js": "/psychometrics/service-worker.js",
-    "static/css/main.36e74ebd.chunk.css.map": "/psychometrics/static/css/main.36e74ebd.chunk.css.map",
-    "static/js/2.fd1bfcb8.chunk.js.LICENSE.txt": "/psychometrics/static/js/2.fd1bfcb8.chunk.js.LICENSE.txt"
+    "main.css": "./docs/static/css/main.cf26436c.chunk.css",
+    "main.js": "./docs/static/js/main.beb4c067.chunk.js",
+    "main.js.map": "./docs/static/js/main.beb4c067.chunk.js.map",
+    "runtime-main.js": "./docs/static/js/runtime-main.e1a66262.js",
+    "runtime-main.js.map": "./docs/static/js/runtime-main.e1a66262.js.map",
+    "static/js/2.fd1bfcb8.chunk.js": "./docs/static/js/2.fd1bfcb8.chunk.js",
+    "static/js/2.fd1bfcb8.chunk.js.map": "./docs/static/js/2.fd1bfcb8.chunk.js.map",
+    "index.html": "./docs/index.html",
+    "precache-manifest.a84a80e9792f0ade740d92b7a1380db9.js": "./docs/precache-manifest.a84a80e9792f0ade740d92b7a1380db9.js",
+    "service-worker.js": "./docs/service-worker.js",
+    "static/css/main.cf26436c.chunk.css.map": "./docs/static/css/main.cf26436c.chunk.css.map",
+    "static/js/2.fd1bfcb8.chunk.js.LICENSE.txt": "./docs/static/js/2.fd1bfcb8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b9ee0e3.js",
+    "static/js/runtime-main.e1a66262.js",
     "static/js/2.fd1bfcb8.chunk.js",
-    "static/css/main.36e74ebd.chunk.css",
+    "static/css/main.cf26436c.chunk.css",
     "static/js/main.beb4c067.chunk.js"
   ]
 }
