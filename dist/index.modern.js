@@ -80,7 +80,9 @@ var Tooltip = function Tooltip(_ref) {
   return createElement("div", {
     style: {
       left: left,
-      marginTop: marginTop
+      marginTop: marginTop,
+      backgroundColor: 'white',
+      textAlign: 'center'
     },
     className: styles$1.container
   }, createElement("span", {

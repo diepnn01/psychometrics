@@ -83,7 +83,9 @@ var Tooltip = function Tooltip(_ref) {
   return React.createElement("div", {
     style: {
       left: left,
-      marginTop: marginTop
+      marginTop: marginTop,
+      backgroundColor: 'white',
+      textAlign: 'center'
     },
     className: styles$1.container
   }, React.createElement("span", {

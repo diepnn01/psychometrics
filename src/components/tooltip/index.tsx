@@ -9,7 +9,10 @@ interface TooltipProps {
 
 export const Tooltip = ({ text, left, marginTop }: TooltipProps) => {
   return (
-    <div style={{ left, marginTop }} className={styles.container}>
+    <div
+      style={{ left, marginTop, backgroundColor: 'white', textAlign: 'center' }}
+      className={styles.container}
+    >
       <span className={styles.text}>{text}</span>
     </div>
   );
