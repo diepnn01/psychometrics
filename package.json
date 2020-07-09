@@ -1,10 +1,10 @@
 {
   "name": "psychometrics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Psychometric assessments",
-  "author": "diep-nguyen",
+  "author": "diepnn01",
   "license": "MIT",
-  "repository": "diep-nguyen/psychometrics",
+  "repository": "diepnn01/psychometrics",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
